@@ -9,9 +9,6 @@ Android mobile application has been developed on hackathon organized by Orange P
 
 Under construction
 
-## TO DO
-
-
 ## Documentation
 
 Under construction
