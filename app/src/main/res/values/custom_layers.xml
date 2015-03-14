@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="custom_layers">
+        <item>WMS/Komunikacja_DworceKolejowe</item>
+        <item>WMS/Komunikacja_Metro_wejscia</item>
+        <item>WMS/Komunikacja_Parkingi_P+R</item>
+        <item>WMS/Komunikacja_PrzystankiKM(PKP)</item>
+        <item>WMS/Komunikacja_PrzystankiSKM</item>
+        <item>WMS/Komunikacja_PrzystankiWKD</item>
+        <item>WMS/Komunikacja_PrzystankiZTM</item>
+        <item>WMS/Komunikacja_StacjeMetro</item>
+        <item>WMS/Komunikacja_Strefa_płatnego_parkowania</item>
+        <item>WMS/Komunikacja_Tramwaje</item>
+        <item>WMS/Komunikacja_koleje_glowne</item>
+        <item>WMS/Komunikacja_msi_granica_1_strefy_taxi</item>
+    </string-array>
+</resources>

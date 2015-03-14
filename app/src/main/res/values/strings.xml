@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrafficCity</string>
+    <string name="title_activity_map">TrafficCity</string>
+    <string name="error_dialog">Error loading map</string>
+    <string name="error_button">OK</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_exit">Exit</string>
+    <string name="error_cancel">Cancel</string>
+    <string name="refresh_button">Clear map</string>
+    <string name="settings_button">Settings</string>
+    <string name="settings_test">Test</string>
+    <string name="settings_test_reachable">Server is reachable</string>
+    <string name="settings_test_not_reachable">Server is not reachable</string>
+    <string name="settings_wrong_ip_address">Wrong IP address was provided</string>
+    <string name="settings_wrong_ip_address_discard">Wrong IP address was provided or/and no BIHAPI Login. Discarding changes.</string>
+    <string name="settings_info">Server IP address:</string>
+    <string name="settings_info_label">Set Server address</string>
+    <string name="settings_bihapi_login_info">BIHAPI Login:</string>
+    <string name="settings_bihapi_password_info">BIHAPI Password:</string>
+    <string name="preference_settings_bihapi_login">BIHAPI Login</string>
+    <string name="preference_settings_bihapi_password">BIHAPI Password</string>
+    <string name="preference_settings_bihapi_login_label">Set BIHAPI Login</string>
+    <string name="preference_settings_bihapi_password_label">Set BIHAPI Password</string>
+    <string name="settings_button_save">Save</string>
+    <string name="about_button">About</string>
+    <string name="about_linked_in">http://pl.linkedin.com/in/lukaszciesluk/</string>
+    <string name="about_mail">lukaszciesluk@gmail.com</string>
+    <string name="transport_dialog_label">Choose your transport type:</string>
+    <string name="custom_layers_button">Custom layers</string>
+    <string name="send_markers_button">Send markers</string>
+    <string name="send_markers_dialog_message">No markers to send</string>
+    <string name="send_markers_dialog_success">Markers were sent successfully</string>
+    <string name="send_markers_dialog_failure">Error encountered while sending markers to server</string>
+    <string name="send_markers_dialog_server_failure">Error encountered while getting markers from server</string>
+    <string name="transport_dialog_car">Car</string>
+    <string name="transport_dialog_bus">Bus</string>
+    <string name="options_button_draw_route">Draw route</string>
+    <string name="options_button_draw_route_failure">Cannot find markers to draw route</string>
+    <string name="settings_saved">Settings were saved successfully</string>
+    <string name="internet_connection_title">No Internet connection</string>
+    <string name="internet_connection_restart">Would you like to restart application ?</string>
+
+</resources>

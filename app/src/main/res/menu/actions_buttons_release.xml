@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.garciapl.trafficcity">
+    <item
+        android:id="@+id/action_clear_map"
+        android:title="@string/refresh_button"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings_button"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_layers"
+        android:title="@string/custom_layers_button"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_send_markers"
+        android:title="@string/send_markers_button"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_draw_route"
+        android:title="@string/options_button_draw_route"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/about_button"
+        app:showAsAction="never" />
+</menu>
