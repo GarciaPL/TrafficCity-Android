@@ -13,6 +13,10 @@ Under construction
 
 Under construction
 
+## Screenshots
+
+Can be found in repository under directory /images.
+
 ## License
 
 Code released under the GNU GENERAL PUBLIC license. Docs released under Creative Commons.
