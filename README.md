@@ -20,6 +20,10 @@ Under construction
 
 More screenshots can be found in repository under directory /images.
 
+## Literature
+
+- [Adding a WMS to google maps](http://androidgismap.blogspot.com/2011/07/adding-wms-to-google-maps.html)
+
 ## License
 
 Code released under the GNU GENERAL PUBLIC license. Docs released under Creative Commons.
