@@ -15,7 +15,10 @@ Under construction
 
 ## Screenshots
 
-Can be found in repository under directory /images.
+![TransportType](https://github.com/GarciaPL/TrafficCity-Android/blob/master/images/TypTransportu.png "Transport Type")
+![DailyRoute](https://github.com/GarciaPL/TrafficCity-Android/blob/master/images/TrasaUzytkownika.png "Daily route")
+
+More screenshots can be found in repository under directory /images.
 
 ## License
 
