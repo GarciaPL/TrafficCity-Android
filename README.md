@@ -29,5 +29,5 @@ More screenshots can be found in repository under directory /images.
 Code released under the GNU GENERAL PUBLIC license. Docs released under Creative Commons.
 
 ## References
-- [htttp://bihapi.pl](http://bihapi.pl)
+- [http://bihapi.pl](http://bihapi.pl)
 - [http://www.openmiddleware.pl](http://www.openmiddleware.pl)
