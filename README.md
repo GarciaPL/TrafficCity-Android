@@ -33,3 +33,5 @@ Code released under the GNU GENERAL PUBLIC license. Docs released under Creative
 - [http://www.openmiddleware.pl](http://www.openmiddleware.pl)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/GarciaPL/trafficcity-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+[![ghit.me](https://ghit.me/badge.svg?repo=GarciaPL/TrafficCity-Android)](https://ghit.me/repo/GarciaPL/TrafficCity-Android)
